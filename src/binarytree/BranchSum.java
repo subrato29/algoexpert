@@ -1,3 +1,6 @@
+//Time complexity: O(n)
+//Space complexity: O(n)
+
 package binarytree;
 
 import java.util.ArrayList;
