@@ -1,3 +1,6 @@
+//Time complexity: O(n)
+//Space complexity: O(1)
+
 package array;
 
 import java.util.List;

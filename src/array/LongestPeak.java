@@ -2,7 +2,7 @@
 //Space: O(1)
 package array;
 
-public class longestPeak {
+public class LongestPeak {
 
 	public static int longestPeak(int[] array) {
 	    int longest = 0;

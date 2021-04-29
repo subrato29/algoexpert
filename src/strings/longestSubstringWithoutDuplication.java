@@ -6,7 +6,6 @@ import java.util.Map;
 public class longestSubstringWithoutDuplication {
 
 	public static String longestSubstringWithoutDuplication(String str) {
-	    // Write your code here
 		Map<Character, Integer> lastSeen = new HashMap<Character, Integer>();
 		int[] longest = {0, 1};
 		int startIndex = 0;
